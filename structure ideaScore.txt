@@ -1,0 +1,8 @@
+IdeaScore/
+├── README.md (viral)
+├── pyproject.toml
+├── requirements.txt
+└── ideascore/
+    ├── __init__.py
+    ├── scorer.py
+    └── cli.py
